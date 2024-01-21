@@ -18,7 +18,7 @@ export const LayoutHeader = () => {
             : "shadow-none"
         }`}
       >
-        Hello
+        Hello Sticky header
       </Box>
     </>
   );
